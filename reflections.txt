@@ -8,4 +8,6 @@ And, the following reflections:
 How long did you spend working on this project?
 1.5 hour
 What was the most rewarding challenge you conquered?
+Understanding metaprogramming
 Where do you still have room to grow?
+There is so much to learn in the area of metaprogramming .
