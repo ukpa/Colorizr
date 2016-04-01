@@ -1,0 +1,11 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+Metaprogramming helped me write less code and accomplish more tasks.
+So i used it in creating color function using metaprogramming.
+
+
+And, the following reflections:
+
+How long did you spend working on this project?
+1.5 hour
+What was the most rewarding challenge you conquered?
+Where do you still have room to grow?
